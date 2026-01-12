@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ouzaniyounes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+Computer Science student.
+Web development (HTML, CSS, JavaScript, PHP).
+Learning software engineering, databases, and system design.
 
 <!---
 Ouzaniyounes/Ouzaniyounes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
