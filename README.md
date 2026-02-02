@@ -1,5 +1,5 @@
 Computer Science student.
-Web development (HTML, CSS, JavaScript, PHP).
+Web development (HTML, CSS, JavaScript, PHP , Mysql ).
 Learning software engineering, databases, and system design.
 
 <!---
